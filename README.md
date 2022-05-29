@@ -1,1 +1,1 @@
-# AirFoil-Regression-with-Deployment
+# Airfoil-Regression-With-Deployment
